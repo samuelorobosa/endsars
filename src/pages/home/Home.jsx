@@ -80,17 +80,6 @@ function Home() {
               <i className='fab fa-whatsapp-square'></i>
               <h4>Broadcast</h4>
             </a>
-
-             <a
-              href='/assets/docs/2020_Police_Bill.pdf'
-              target='_blank'
-              rel='noreferrer noopener'
-              className={styles.infoBox}
-            >
-              <i className='fas fa-arrow-circle-down'></i>
-              <h4>Know your rights(Police Bill)
-              </h4>
-            </a>
           </div>
         </section>
 
@@ -106,7 +95,7 @@ function Home() {
                   target='_blank'
                   rel='noreferrer noopener'
                 >
-                  @savyrinuu_
+                  @SavvyRinu
                 </a>
               </li>
               <li>
